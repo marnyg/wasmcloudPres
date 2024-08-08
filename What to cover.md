@@ -1,6 +1,4 @@
 
-# What to cover
-
 ----
 ## wasm/wasmtime
 #### what it is

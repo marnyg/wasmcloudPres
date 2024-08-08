@@ -12,3 +12,5 @@
 - c# startup.cs with interfaces linking
 - dll or dynamic linking with interfaces linking runtime
 - static linking with interfaces linking at build time
+*  dependecy injcetion with linking to component
+* 

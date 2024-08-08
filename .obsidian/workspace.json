@@ -25,7 +25,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/dataview/data.json",
+                "file": ".obsidian/appearance.json",
                 "staged": false
               }
             }
@@ -165,18 +165,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e82d2e2557b773f3",
+  "active": "63afd4970c3c780b",
   "lastOpenFiles": [
+    "comparisons to make.md",
+    "What to cover.md",
     "index.md",
+    "page2.md",
+    "page1 1.md",
     "page1.md",
+    "consepts to touch on.md",
     "Excalidraw/Drawing 2024-08-07 14.41.44.excalidraw.md",
     "Excalidraw",
-    "consepts to touch on.md",
-    "planAndTodo.md",
-    "comparisons to make.md",
     "todo.md",
-    "page1 1.md",
-    "page2.md",
     "Untitled 1.md"
   ]
 }
