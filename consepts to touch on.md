@@ -1,5 +1,0 @@
-- [ ] [componsents](https://wasmcloud.com/docs/concepts/)
-- [ ] [providers](https://wasmcloud.com/docs/concepts/)
-- [ ] [host/lattice](https://wasmcloud.com/docs/concepts/)
-- [ ] [interfaces](https://wasmcloud.com/docs/concepts/)
-- [ ] [linking](https://wasmcloud.com/docs/concepts/)

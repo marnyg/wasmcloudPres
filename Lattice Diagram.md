@@ -1,0 +1,1 @@
+![[infra concepts 2024-08-12 11.48.20.excalidraw]]

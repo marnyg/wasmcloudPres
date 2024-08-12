@@ -1,4 +1,4 @@
-
+#TODO 
 ----
 ## wasm/wasmtime
 #### what it is
@@ -22,23 +22,4 @@ temporally transparent messaging
 can work as http ( 1 to 1, fire and forget)
 resilient cluster
 
-----
-
-## Implementation decupeling
-you  can use cluster functionality without knowing the provider
-in code you can use kv store without knowing if it is redis or consule or other
-IE: no vendor lock ing
-- [ ] fill inn
-- [ ] add code example
-
-----
-## open policy agent
-- [ ] fill inn
-
-----
-## built in otel support
-- [ ] fill inn
-
-----
-oneoff todo
-- [ ] test
+- [ ] find a place to integrat this 

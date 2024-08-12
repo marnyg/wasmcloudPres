@@ -1,5 +1,9 @@
 [
   "dataview",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-argdown-plugin",
+  "darlal-switcher-plus",
+  "pane-relief",
+  "obsidian-prozen"
 ]
