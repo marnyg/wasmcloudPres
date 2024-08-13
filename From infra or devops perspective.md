@@ -6,6 +6,7 @@
 	- Manages "Job" allocation
 	- Open policy agent
 	- Open telemetry
+	- [[Host Machine diagram]]
 - Lattice: Distributed application network
 	- Uses Nats
 	- Self-forming, self-healing mesh network that provides a unified, flat topology across environments using NATS

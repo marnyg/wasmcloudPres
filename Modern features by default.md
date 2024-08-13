@@ -1,0 +1,1 @@
+- If improving security and observability are priorities, highlight the OPA and OpenTelemetry integrations.

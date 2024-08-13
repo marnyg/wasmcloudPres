@@ -7,7 +7,7 @@ const files = app.vault.getMarkdownFiles()
 //create an array with the filename and lines that include the desired tag
 let arr = files.map(async(file) => {
   const content = await app.vault.cachedRead(file)
-//turn all the content into an array
+//turn all the content into an arra
 let lines = await content.split("\n").filter(line => line.includes("- [ ]"))
 return ["[["+file.name.split(".")[0]+"]]", lines]
 })

@@ -1,0 +1,1 @@
+![[Core Concepts 2024-08-12 11.45.36.excalidraw]]
