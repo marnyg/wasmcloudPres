@@ -1,4 +1,3 @@
-
 External first-party providers :
 
 - [http-client](https://github.com/wasmCloud/wasmCloud/tree/main/crates/provider-http-client)

@@ -1,5 +1,4 @@
-
-##1. Technology Maturity
+## 1. Technology Maturity
 
 - **WebAssembly Ecosystem**:
     - WebAssembly, while promising, is still evolving, especially for server-side use cases.

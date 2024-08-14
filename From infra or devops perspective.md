@@ -11,4 +11,5 @@
 	- Uses Nats
 	- Self-forming, self-healing mesh network that provides a unified, flat topology across environments using NATS
 	- [[Lattice Diagram]]
-- **Providers** are executable host plugins that implement longer-lived processes, typically providing reusable [capabilities](https://wasmcloud.com/docs/concepts/capabilities) (such as key-value storage).
+- **Providers** are executable host plugins that implement longer-lived processes, typically providing reusable (such as key-value storage).
+	- [[Example providers]]

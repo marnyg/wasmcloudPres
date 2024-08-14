@@ -1,6 +1,7 @@
 #slide 
+* Exactly same code locally as remote
 * No networking bs
-	* Bridge network, multiple levels of networking viritualization(win->wsl->docker)
+	* Bridge network, multiple levels of networking virtualization(win->wsl->docker)
 * No OS virtualization 
 	* No virtual filesystem, no virtual network stack, volume mounts, etc.
 	* Just one binary per component

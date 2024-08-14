@@ -8,17 +8,32 @@ extern "C" {
 
 Example dynamic linking (in wadm.yaml):
 ```yaml
+# Metadata
 apiVersion: core.oam.dev/v1beta1
 kind: Application
 metadata:
-  name: my-app
+  name: hello-world
+  annotations:
+    description: 'HTTP hello world demo'
 spec:
   components:
-    - name: my-component
-      type: wasmcloud-component
+    - name: http-component
+      type: component
       properties:
-        image: myregistry.com/my-component:v1
+        # Your manifest deploys from a local .wasm file, but you can also use OCR registries like below
+        image: ghcr.io/wasmcloud/components/http-hello-world-rust:0.1.0
       traits:
+        # One replica of this component will run
+        - type: spreadscaler
+          properties:
+            replicas: 1
+    # The httpserver capability provider, started from the official wasmCloud OCI artifact
+    - name: httpserver
+      type: capability
+      properties:
+        image: ghcr.io/wasmcloud/http-server:0.22.0
+      traits:
+        # Link the HTTP server and set it to listen on the local machine's port 8080
         - type: link
           properties:
             target: http-component
@@ -29,4 +44,5 @@ spec:
               - name: default-http
                 properties:
                   ADDRESS: 127.0.0.1:8080
+
 ```

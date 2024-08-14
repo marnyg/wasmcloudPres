@@ -1,1 +1,3 @@
-- If improving security and observability are priorities, highlight the OPA and OpenTelemetry integrations.
+- Open policy agent built in
+- OpenTelemetry built in
+- Logging Provider built in [[Example providers]]
