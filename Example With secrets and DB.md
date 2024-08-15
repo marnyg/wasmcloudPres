@@ -1,5 +1,3 @@
-#TODO
-
 ## Consuming seecrets
 Components access secrets using the [`wasmcloud:secrets`](https://github.com/wasmCloud/wasmCloud/blob/main/crates/runtime/wit/deps/secret/secrets.wit) WIT interface. Support is built into the wasmCloud host to fetch secrets from a secrets backend and provide them to components at runtime.
 

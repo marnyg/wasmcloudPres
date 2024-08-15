@@ -1,5 +1,3 @@
-#TODO
-
 
 ## Python
 ```python

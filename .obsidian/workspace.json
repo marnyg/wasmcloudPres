@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca6c68e08ceed93e",
+        "id": "b7ff099626a44cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "da7deb0251dce195",
+            "id": "e82d2e2557b773f3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,151 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Index.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":12},\"to\":{\"line\":21,\"ch\":12}},\"scroll\":1.731733822687282}"
+                },
+                {
+                  "title": "Why not care",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Why not care.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":27},\"to\":{\"line\":12,\"ch\":27}},\"scroll\":0}"
+                },
+                {
+                  "title": "Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Index.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":16},\"to\":{\"line\":21,\"ch\":16}},\"scroll\":0.701046572142453}"
+                },
+                {
+                  "title": "Orchestration - Kubernetes vs wasmCloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Orchestration - Kubernetes vs wasmCloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Modern features by default",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Modern features by default.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Orchestration - Kubernetes vs wasmCloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Orchestration - Kubernetes vs wasmCloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Better local dev(maybe)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better local dev(maybe).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":12},\"to\":{\"line\":1,\"ch\":12}}}"
+                },
+                {
+                  "title": "Example components",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Example components.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":19},\"to\":{\"line\":7,\"ch\":19}}}"
+                },
+                {
+                  "title": "Easier scaling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Easier scaling.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Component Interaction - Traditional APIs with DI vs wasmCloud Interfaces with Linking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Component Interaction - Traditional APIs with DI vs wasmCloud Interfaces with Linking.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Better networking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better networking.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Better local dev(maybe)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better local dev(maybe).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Better networking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better networking.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Better local dev(maybe)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better local dev(maybe).md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Application Components - Docker Containers vs wasmCloud Components vs Traditional Libraries",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Application Components - Docker Containers vs wasmCloud Components vs Traditional Libraries.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Example providers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Example providers.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":9},\"to\":{\"line\":6,\"ch\":9}}}"
+                },
+                {
+                  "title": "Component Interaction - Traditional APIs with DI vs wasmCloud Interfaces with Linking",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Component Interaction - Traditional APIs with DI vs wasmCloud Interfaces with Linking.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":83,\"ch\":24},\"to\":{\"line\":83,\"ch\":24}},\"scroll\":71.2127655068597}"
+                },
+                {
+                  "title": "Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Index.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":9},\"to\":{\"line\":16,\"ch\":9}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Index.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Introduction to wasmCloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Introduction to wasmCloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":5},\"to\":{\"line\":7,\"ch\":5}},\"scroll\":0.7142857142857143}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Diff View (appearance.json)",
+                  "icon": "git-pull-request",
+                  "state": "{\"type\":\"diff-view\",\"state\":{\"file\":\".obsidian/appearance.json\",\"staged\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to wasmCloud.md",
+                "file": "Why not care.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "63d6366b85812c02",
@@ -148,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to wasmCloud.md",
+                "file": "Why not care.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to wasmCloud.md",
+                "file": "Why not care.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +353,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to wasmCloud.md"
+                "file": "Why not care.md"
               }
             }
           }
@@ -241,34 +379,33 @@
   "active": "63afd4970c3c780b",
   "lastOpenFiles": [
     "Index.md",
-    "Example components.md",
-    "Example Project.md",
-    "todo.md",
-    "Separation of business logic from runtime logic.md",
-    "Example With secrets and DB.md",
-    "Example With DB.md",
-    "Example WIT interface.md",
-    "Example providers.md",
-    "Example of linking.md",
-    "Easier scaling.md",
-    "Why not care.md",
-    "System Architecture - Microservices vs wasmCloud Component.md",
-    "State Management - Traditional Databases vs wasmCloud State Providers.md",
     "Security Model - Kubernetes vs wasmCloud.md",
+    "State Management - Traditional Databases vs wasmCloud State Providers.md",
+    "Why not care.md",
     "Scalability Model - Kubernetes Scaling vs wasmCloud Scaling.md",
-    "Runtime Environments - Docker vs wasmtime vs Traditional Runtimes (C-Sharp or Java).md",
-    "Orchestration - Kubernetes vs wasmCloud.md",
-    "Modern features by default.md",
-    "Lattice Diagram.md",
-    "Excalidraw/infra concepts 2024-08-12 11.48.20.excalidraw.md",
-    "Introduction to wasmCloud.md",
-    "Host Machine diagram.md",
-    "From infra or devops perspective.md",
-    "From developer perspective.md",
     "Component Interaction - Traditional APIs with DI vs wasmCloud Interfaces with Linking.md",
+    "Better local dev(maybe).md",
+    "System Architecture - Microservices vs wasmCloud Component.md",
+    "Orchestration - Kubernetes vs wasmCloud.md",
+    "Runtime Environments - Docker vs wasmtime vs Traditional Runtimes (C-Sharp or Java).md",
+    "Modern features by default.md",
+    "Easier scaling.md",
+    "Example Project.md",
+    "Example of linking.md",
+    "Example components.md",
+    "Better networking.md",
+    "Separation of business logic from runtime logic.md",
+    "Example providers.md",
+    "From developer perspective.md",
+    "Example WIT interface.md",
+    "From infra or devops perspective.md",
+    "Example With secrets and DB.md",
+    "Application Components - Docker Containers vs wasmCloud Components vs Traditional Libraries.md",
+    "Host Machine diagram.md",
+    "Introduction to wasmCloud.md",
+    "Example With secrets.md",
     "Pasted image 20240812122033.png",
     "Pasted image 20240812121948.png",
-    "From infra",
     "Excalidraw"
   ]
 }

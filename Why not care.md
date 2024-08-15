@@ -13,7 +13,7 @@
 ## 2. Ecosystem Limitations
 
 - **Limited Provider Availability**:
-    - The number of pre-built capability providers is currently limited compared to ecosystems like Node.js or Java.
+    - The number of pre-built capability providers is currently limited compared to ecosystems like Docker or Java.
     - Custom provider development may be necessary, requiring additional resources.
 - **Sparse Tooling Ecosystem**:
     - Lack of mature CI/CD pipelines specifically tailored for wasmCloud deployments.
@@ -23,7 +23,7 @@
 ## 3. Performance Considerations
 
 - **Single-Threaded Nature**:
-    - wasmCloud actors are single-threaded, which may not be optimal for all workloads.
+    - wasmCloud components are single-threaded, which may not be optimal for all workloads.
     - Scaling is achieved through multiple instances, which can increase communication overhead.
 - **Inter-Process Communication Bottlenecks**:
     - Highly parallel workloads with intensive inter-process communication might face performance issues.

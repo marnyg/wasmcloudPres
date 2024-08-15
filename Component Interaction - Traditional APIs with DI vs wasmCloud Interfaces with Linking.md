@@ -1,4 +1,4 @@
-## Communication Mechanism
+## 1. Communication Mechanism
 
 - **In-Process Libraries**:
     - Direct function calls within the same memory space
