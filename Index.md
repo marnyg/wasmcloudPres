@@ -9,7 +9,7 @@
 [[Better networking]]
 [[Easier scaling]]
 [[Modern features by default]]
-[[Better local dev(maybe)]]
+[[Better local dev (maybe)]]
 ### How it Relates to things you already know
 [[Runtime Environments - Docker vs wasmtime vs Traditional Runtimes (C-Sharp or Java)]]
 [[Orchestration - Kubernetes vs wasmCloud]]

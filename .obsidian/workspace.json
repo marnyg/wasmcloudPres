@@ -18,6 +18,66 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "From developer perspective",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"From developer perspective.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":25},\"to\":{\"line\":17,\"ch\":25}}}"
+                },
+                {
+                  "title": "Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Index.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":13},\"to\":{\"line\":3,\"ch\":13}}}"
+                },
+                {
+                  "title": "Why not care",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Why not care.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "WIT cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"WIT cheatsheet.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "WIT-Cheatsheet-v1.2",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"WIT-Cheatsheet-v1.2.pdf\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "WIT cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"WIT cheatsheet.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":28},\"to\":{\"line\":0,\"ch\":28}}}"
+                },
+                {
+                  "title": "From developer perspective",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"From developer perspective.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":12},\"to\":{\"line\":17,\"ch\":12}}}"
+                },
+                {
+                  "title": "Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Index.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":24},\"to\":{\"line\":3,\"ch\":24}}}"
+                },
+                {
+                  "title": "Introduction to wasmCloud",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Introduction to wasmCloud.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":4},\"to\":{\"line\":8,\"ch\":4}},\"scroll\":0}"
+                },
+                {
+                  "title": "Why not care",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Why not care.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":14.734802889722484}"
+                },
+                {
                   "title": "Index",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Index.md\",\"mode\":\"source\",\"source\":false}}",
@@ -54,9 +114,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Better local dev(maybe)",
+                  "title": "Better local dev (maybe)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better local dev(maybe).md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better local dev (maybe).md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":12},\"to\":{\"line\":1,\"ch\":12}}}"
                 },
                 {
@@ -84,9 +144,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Better local dev(maybe)",
+                  "title": "Better local dev (maybe)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better local dev(maybe).md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better local dev (maybe).md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -96,9 +156,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "title": "Better local dev(maybe)",
+                  "title": "Better local dev (maybe)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better local dev(maybe).md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Better local dev (maybe).md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -158,11 +218,9 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Why not care.md",
-                "mode": "source",
-                "source": false
+                "file": "WIT-Cheatsheet-v1.2.pdf"
               }
             }
           }
@@ -286,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why not care.md",
+                "file": "WIT-Cheatsheet-v1.2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +370,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why not care.md",
+                "file": "WIT-Cheatsheet-v1.2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -353,7 +411,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why not care.md"
+                "file": "WIT-Cheatsheet-v1.2.pdf"
               }
             }
           }
@@ -378,13 +436,19 @@
   },
   "active": "63afd4970c3c780b",
   "lastOpenFiles": [
+    "From developer perspective.md",
     "Index.md",
+    "From infra or devops perspective.md",
+    "Why not care.md",
+    "WIT cheatsheet.md",
+    "WIT-Cheatsheet-v1.2.pdf",
+    "WIT cheatcheet.md",
+    "Introduction to wasmCloud.md",
+    "Better local dev (maybe).md",
     "Security Model - Kubernetes vs wasmCloud.md",
     "State Management - Traditional Databases vs wasmCloud State Providers.md",
-    "Why not care.md",
     "Scalability Model - Kubernetes Scaling vs wasmCloud Scaling.md",
     "Component Interaction - Traditional APIs with DI vs wasmCloud Interfaces with Linking.md",
-    "Better local dev(maybe).md",
     "System Architecture - Microservices vs wasmCloud Component.md",
     "Orchestration - Kubernetes vs wasmCloud.md",
     "Runtime Environments - Docker vs wasmtime vs Traditional Runtimes (C-Sharp or Java).md",
@@ -396,14 +460,8 @@
     "Better networking.md",
     "Separation of business logic from runtime logic.md",
     "Example providers.md",
-    "From developer perspective.md",
     "Example WIT interface.md",
-    "From infra or devops perspective.md",
     "Example With secrets and DB.md",
-    "Application Components - Docker Containers vs wasmCloud Components vs Traditional Libraries.md",
-    "Host Machine diagram.md",
-    "Introduction to wasmCloud.md",
-    "Example With secrets.md",
     "Pasted image 20240812122033.png",
     "Pasted image 20240812121948.png",
     "Excalidraw"

@@ -15,6 +15,7 @@
 - Use WebAssembly Interface Type (WIT) syntax
 - Vendor-agnostic, high-level definitions of functionalities
 - [[Example WIT interface]]
+- [[WIT-Cheatsheet-v1.2.pdf]]
 ## Linking
 - Connects a component's requirements (imports) to another entity's exposed functions (exports)
 - Can be done at build time (static) or runtime (dynamic)
